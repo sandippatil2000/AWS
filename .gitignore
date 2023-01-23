@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AWSWebAPI/.vs/AWSWebAPI
+/AWSWebAPI/bin/Debug/net6.0
+/AWSWebAPI/obj
