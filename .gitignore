@@ -5,3 +5,6 @@
 /AWSWebAPI/.vs/AWSWebAPI
 /AWSWebAPI/bin/Debug/net6.0
 /AWSWebAPI/obj
+/AWSWebAPI/.config
+/AWSWebAPI/bin/Release/net6.0/publish
+/AWSWebAPI/bin/Release/net6.0

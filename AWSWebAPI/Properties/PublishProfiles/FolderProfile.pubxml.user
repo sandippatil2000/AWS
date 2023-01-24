@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\AWS\Repo\AWS\AWSWebAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-01-24T15:40:54.1169048Z;True|2023-01-24T21:06:02.4335016+05:30;True|2023-01-24T20:35:31.7214125+05:30;True|2023-01-24T20:35:05.6812284+05:30;True|2023-01-24T20:33:07.2323241+05:30;True|2023-01-24T20:32:25.1160246+05:30;True|2023-01-24T20:30:38.4878848+05:30;True|2023-01-24T20:12:54.4430409+05:30;True|2023-01-24T20:07:12.6967046+05:30;True|2023-01-24T20:05:49.8058168+05:30;True|2023-01-24T20:04:59.6670160+05:30;True|2023-01-24T18:09:21.2315014+05:30;True|2023-01-24T18:08:38.4801499+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
