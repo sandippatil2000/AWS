@@ -32,5 +32,13 @@ namespace AWSWebAPI.Controllers
             })
             .ToArray();
         }
+
+
+        [HttpGet(template: "Weather/Summaries", Name = "Summaries")]
+        public IEnumerable<string> GetSummaries()
+        {
+            return Summaries
+            .ToArray();
+        }
     }
 }

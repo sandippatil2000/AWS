@@ -8,3 +8,5 @@
 /AWSWebAPI/.config
 /AWSWebAPI/bin/Release/net6.0/publish
 /AWSWebAPI/bin/Release/net6.0
+/AWSWebAPI/.vs/ProjectEvaluation/awswebapi.projects.v5.2
+/AWSWebAPI/.vs/ProjectEvaluation/awswebapi.metadata.v5.2
