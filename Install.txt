@@ -9,3 +9,6 @@ https://sgoyal.net/2016/11/18/run-a-shell-from-jenkins-using-sudo-ubuntu/
 
 Install .net6.0 core on Ubuntu 
 https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
+
+Install Nginx web server and configure jenkins
+https://computingforgeeks.com/configure-jenkins-behind-nginx-reverse-proxy-and-lets-encrypt-ssl/
