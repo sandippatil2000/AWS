@@ -5,6 +5,7 @@ https://reflectoring.io/connect-rds-byjumphost/
 https://fitdevops.in/connect-to-private-mysql-rds-instances-using-mysql-workbench
 https://aws.amazon.com/solutions/implementations/linux-bastion/
 https://www.patricia-anong.com/blog/2017/5/25/mysql-in-aws
+https://aws.amazon.com/blogs/infrastructure-and-automation/deploy-bastion-hosts-into-private-subnets-with-aws-cdk/
 https://erpsolutions.oodles.io/developer-blogs/How-To-Connect-a-Private-Amazon-RDS-DB-To-Local-Machine/
 
 
