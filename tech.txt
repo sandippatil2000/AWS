@@ -2,4 +2,6 @@
 AWS MYSQL RDS connection
 
 https://reflectoring.io/connect-rds-byjumphost/
-https://fitdevops.in/connect-to-private-mysql-rds-instances-using-mysql-workbench/
+https://fitdevops.in/connect-to-private-mysql-rds-instances-using-mysql-workbench
+https://erpsolutions.oodles.io/developer-blogs/How-To-Connect-a-Private-Amazon-RDS-DB-To-Local-Machine/
+
